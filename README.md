@@ -13,4 +13,4 @@ Turnplate
 
 for more info: 
 
-blog:
+blog: https://nachiboin.blogspot.com/2025/08/converters-turntable-and-turnplate.html
